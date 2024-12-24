@@ -54,6 +54,7 @@ O presente relatório apresenta os resultados obtidos a partir de uma série de 
    # **Os Algoritmos Otimizados**
 
 1. Selection Sort
+   
    ![](./assets/optSelection.png)
 
    O Selection Sort pega o menor valor e coloca em sua posição correta. O algoritmo otimizado aproveita também o valor máximo em cada laço de repetição e colocá-lo na posição correta. Assim, a ordenação é feita usando tanto os valores mínimos como os máximos. Assim, diminui o número de iterações que o algoritmo executa, mas mantém o mesmo número de trocas.
@@ -66,6 +67,7 @@ O presente relatório apresenta os resultados obtidos a partir de uma série de 
 -------------------------------------------------------------
 
 2. Bubble Sort
+   
    ![](./assets/optBubble.png)
 
    Usa uma variável para registrar se alguma troca foi feita no loop interno. Se nenhuma troca foi feita, então o array já está ordenado e podemos parar o algoritmo, evitando percorrer o array várias vezes desnecessariamente. 
