@@ -20,7 +20,7 @@ O presente relatório apresenta os resultados obtidos a partir de uma série de 
    
 
    
-
+-------------------------------------------------------------
 2. Bubble Sort
 
    ![](./assets/bubbleSort.png)
@@ -38,6 +38,7 @@ O presente relatório apresenta os resultados obtidos a partir de uma série de 
    
 
    
+-------------------------------------------------------------
 
 3.  Insertion Sort
 
@@ -62,6 +63,7 @@ O presente relatório apresenta os resultados obtidos a partir de uma série de 
    ![](./assets/optSelectionGraf.png)
 
    
+-------------------------------------------------------------
 
 2. Bubble Sort
    ![](./assets/optBubble.png)
@@ -71,6 +73,7 @@ O presente relatório apresenta os resultados obtidos a partir de uma série de 
    ![](./assets/optBubbleGraf.png)
 
    
+-------------------------------------------------------------
 
 3.  Insertion Sort
 
